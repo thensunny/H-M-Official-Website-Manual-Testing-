@@ -15,7 +15,7 @@ The information in this repository is particularly valuable for freshers or inte
 5.[Test Case Summary](#Test-Case-Summary) <br>
 6.[UI manual testing](#UI-manual-testing) <br>
 7.[Log out Scenario](#Log-out-Scenario) <br>
-8.[H-and-M Testing Issue Report](#H&M-Testing-Issue-Report) <br>
+8.[H-and-M Testing Issue Report](#H-and-M-Testing-Issue-Report) <br>
 9.[Conclusion](#Conclusion) <br>
 
 ------
