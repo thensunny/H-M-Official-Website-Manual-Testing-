@@ -47,4 +47,4 @@ This project focuses on performing comprehensive manual testing on the H&M offic
 **Here is the introduction pdf :** -[Introduction](./Introduction.pdf)
 
 ## How to Write Test Scenario
-**Check out this PDF :** -[How to write test scenario](./How-to-write-test-scenario.pdf) 
+**Check out this PDF :** -[How to write test scenario](./How-To-Write-Test-Scenario.pdf) 
