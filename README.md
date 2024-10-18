@@ -3,7 +3,7 @@ This repository contains the manual testing documentation and issue reports for 
 
 In addition to issue reports documenting bugs and inconsistencies, there are logs that capture the manual testing procedures and results, providing clear traceability. By verifying the website’s behavior across major browsers like Chrome, Firefox, Safari, and Edge, this project ensures a consistent and reliable user experience.
 
-The information in this repository is particularly valuable for freshers or intermediate-level SQA students as it offers real-world examples of how to conduct manual testing effectively. It will help them understand the process of writing test cases, logging issues, and testing across various environments, giving them practical insights into the Software Quality Assurance process.
+The information in this repository is particularly valuable for freshers or intermediate-level SQA students as it offers real-world examples of how to conduct manual testing effectively. It will help them understand the process of writing test cases, logging issues, and testing across various environments, giving them practical insights into the Software Quality Assurance process. 
 
 ------
 
