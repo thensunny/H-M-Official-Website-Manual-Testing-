@@ -17,15 +17,13 @@ Test Execution and Documentation: Test results are logged in a Google Sheets doc
 
 ## Table of Contents
 1.Test Overview <br>
-2.Introduction
-3.How to write test scenario
-4.How to write test case
-5.Test Case Summary 
-6.UI manual testing 
-7.Log out Scenario
-8.H&M Testing Issue Report (Excel File)
-9.Coclusion
-
-
+2.Introduction <br>
+3.How to write test scenario <br>
+4.How to write test case <br>
+5.Test Case Summary <br>
+6.UI manual testing <br>
+7.Log out Scenario <br>
+8.H&M Testing Issue Report (Excel File) <br>
+9.Coclusion <br>
 
 ------
