@@ -67,8 +67,8 @@ This project focuses on performing comprehensive manual testing on the H&M offic
  --------
  
 
- ## H&M Testing Issue Report (Excel File)
- **Check out this PDF :** -[H-and-M Testing Issue Report](./H&M_Asif-Khan-Sunny.xlsb.xlsx)
+ ## H-and-M Testing Issue Report
+ **Check out this Excel file :** -[H-and-M Testing Issue Report](./H&M_Asif-Khan-Sunny.xlsb.xlsx)
 
  --------
 
