@@ -44,7 +44,7 @@ This project focuses on performing comprehensive manual testing on the H&M offic
 **Test Execution and Documentation:** Test results are logged in a Google Sheets document, ensuring traceability and allowing for easy review by stakeholders. The testing process adheres to the best practices of Software Quality Assurance (SQA) to ensure the website meets high standards of quality and usability.
 
 ## Introduction 
-**Here is the introduction pdf :** -[Introduction](./Introduction.pdf)
+**Here is the introduction pdf :** -[Introduction](./Introduction.pdf) 
 
 ## How to Write Test Scenario
 **Check out this PDF :** -[How to write test scenario](./How-To-Write-Test-Scenario-by-Asif-Khan-Sunny.pdf) 
