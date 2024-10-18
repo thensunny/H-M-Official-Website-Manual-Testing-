@@ -15,7 +15,7 @@ The information in this repository is particularly valuable for freshers or inte
 5.[Test Case Summary](#Test-Case-Summary) <br>
 6.[UI manual testing](#UI-manual-testing) <br>
 7.[Log out Scenario](#Log-out-Scenario) <br>
-8.[H&M Testing Issue Report](#H&M-Testing-Issue-Report) <br>
+8.[H-and-M Testing Issue Report](#H&M-Testing-Issue-Report) <br>
 9.[Conclusion](#Conclusion) <br>
 
 ------
@@ -68,7 +68,7 @@ This project focuses on performing comprehensive manual testing on the H&M offic
  
 
  ## H&M Testing Issue Report (Excel File)
- **Check out this PDF :** -[H&M Testing Issue Report](./H&M_Asif-Khan-Sunny.xlsb.xlsx)
+ **Check out this PDF :** -[H-and-M Testing Issue Report](./H&M_Asif-Khan-Sunny.xlsb.xlsx)
 
  --------
 
