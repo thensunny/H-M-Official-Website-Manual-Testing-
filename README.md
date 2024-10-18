@@ -16,7 +16,7 @@ Test Execution and Documentation: Test results are logged in a Google Sheets doc
 ------
 
 ## Table of Contents
-1.[Test Overview](test-overview) <br>
+1.[Test Overview](#test-overview) <br>
 2.Introduction <br>
 3.How to write test scenario <br>
 4.How to write test case <br>
